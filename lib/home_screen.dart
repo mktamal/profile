@@ -8,7 +8,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Center(
-          child: Text('Home',
+          child: Text('Profile',
             style: TextStyle(
                 fontSize: 28,
                 fontFamily: 'Poppins'
